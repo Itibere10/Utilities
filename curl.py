@@ -7,7 +7,7 @@ url = 'INSIRA A URL'
 op = 'GET'
 
 # HEADERS
-head = {
+headers = {
     'var1': 'value1',
     'var2': 'value2'
 }
